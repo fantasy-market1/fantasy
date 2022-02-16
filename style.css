@@ -208,6 +208,31 @@ p{ transform: translate(60px);}
 .card:hover .content{
     height: 150px;
 }
+.bottom-container{
+
+    background-color: #ff0066;
+    ;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  a{
+      color: rgb(23, 1, 48);
+      font-family:'Montserrat', sans-serif;
+      margin: 10px 20px;
+      text-decoration: none;
+  }
+  a:hover{
+      color: #e4f9f5;
+  }
+  .copy-right{
+      color: #e4f9f5;
+      padding: 20px 0px 10px 0px;
+      font-size: 0.75rem;
+      margin-bottom: 0;
+  }
 
 
 
